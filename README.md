@@ -58,20 +58,6 @@ lib/
 - React (UI library)
 - TypeScript (JavaScript with types)
 - Tailwind CSS (Styling)
-
-## 🐛 If Something Doesn't Work
-
-**Server won't start?**
-- Close PowerShell and try again
-- Delete `.next` folder
-- Run `pnpm install` again
-
-**Products not showing?**
-- Press `Ctrl+Shift+R` in browser (hard refresh)
-
-**Need help?**
-- Check [Next.js Docs](https://nextjs.org/docs)
-
 ---
 
 **Made by:** Madani Hamdi (24BCY70005)  
